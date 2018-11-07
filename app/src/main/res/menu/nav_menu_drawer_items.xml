@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_african_news"
+            android:title="Africa News"/>
+
+        <item
+            android:id="@+id/nav_european_news"
+            android:title="European News"/>
+
+        <item
+            android:id="@+id/nav_asia_news"
+            android:title="Asian News"/>
+
+        <item
+            android:id="@+id/nav_north_american_news"
+            android:title="North American News"/>
+
+        <item
+            android:id="@+id/nav_south_american_news"
+            android:title="South American News"/>
+
+        <item
+            android:id="@+id/nav_austrilian_news"
+            android:title="Austrilian News"/>
+    </group>
+</menu>
